@@ -1,19 +1,19 @@
 # Anomaly Detection
 
 ### Project Goal
----
+
 
 ### Problem Description
----
+
 
 ### Data Source
----
 
-### NOTEBOOK
----
+
+### MODELS and METHODOLOGY USED
+
 
 ### CONCLUSION
----
+
 
 ### FUTURE SCOPE
----
+
